@@ -1,4 +1,12 @@
-# Svelte TypeScript Template
+# Example Svelte Form Easy (Signup App)
+
+Install [svelte-form-easy](https://www.npmjs.com/package/svelte-form-easy) package
+
+```bash
+npm i svelte-form-easy
+```
+
+## Svelte TypeScript Template
 
 ![svelte version](https://img.shields.io/badge/svelte-3.52.0-f73e00.svg) ![rollup version](https://img.shields.io/badge/rollup-3.2.3-fbb040.svg) ![typescript version](https://img.shields.io/badge/typescript-4.8.4-informational.svg) ![sass version](https://img.shields.io/badge/sass-1.55.0-ff69b4.svg)
 
